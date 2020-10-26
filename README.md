@@ -1,4 +1,4 @@
-[![@dyprast/nuxt-stisla](https://i.ibb.co/Y81NRNH/nuxt-stisla.jpg)](https://nuxtstisla.netlify.app)
+[![@dyprast/nuxt-stisla](https://i.ibb.co/wL6cYmN/nuxt-stisla.jpg)](https://nuxtstisla.vercel.app/)
 
 # Nuxt Stisla
 

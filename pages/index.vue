@@ -1,7 +1,6 @@
 <template>
   <div>
     <EcommerceDashboard/>
-    <script src="/js/page/index.js"></script>
   </div>
 </template>
 
@@ -27,7 +26,8 @@ export default {
       { src: "/modules/chart.min.js" },
       { src: "/modules/owlcarousel2/dist/owl.carousel.min.js" },
       { src: "/modules/summernote/summernote-bs4.js" },
-      { src: "/modules/chocolat/dist/js/jquery.chocolat.min.js" }
+      { src: "/modules/chocolat/dist/js/jquery.chocolat.min.js" },
+      { src: "/js/page/index.js", body: true }
     ],
   },
   components: {

@@ -3,21 +3,9 @@
 $("#modal-1").fireModal({body: 'Modal body text goes here.'});
 $("#modal-2").fireModal({body: 'Modal body text goes here.', center: true});
 
-let modal_3_body = '<p>Object to create a button on the modal.</p><pre class="language-javascript"><code>';
-modal_3_body += '[\n';
-modal_3_body += ' {\n';
-modal_3_body += "   text: 'Login',\n";
-modal_3_body += "   submit: true,\n";
-modal_3_body += "   class: 'btn btn-primary btn-shadow',\n";
-modal_3_body += "   handler: function(modal) {\n";
-modal_3_body += "     alert('Hello, you clicked me!');\n"
-modal_3_body += "   }\n"
-modal_3_body += ' }\n';
-modal_3_body += ']';
-modal_3_body += '</code></pre>';
 $("#modal-3").fireModal({
   title: 'Modal with Buttons',
-  body: modal_3_body,
+  body: "Object to create a button on the modal.</p><pre class='language-javascript'><code>[\n  {\n     text: 'Login',\n     submit: true,\n     class: 'btn btn-primary btn-shadow,\n     handler: function(modal) {\n         alert('Hello, you clicked me!');\n     }\n  }\n]</code></pre>",
   buttons: [
     {
       text: 'Click, me!',

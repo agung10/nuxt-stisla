@@ -400,7 +400,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/id.svg"
+                      src="/img/flags/4x3/id.svg"
                       alt="image"
                       width="40"
                     />
@@ -414,7 +414,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/my.svg"
+                      src="/img/flags/4x3/my.svg"
                       alt="image"
                       width="40"
                     />
@@ -428,7 +428,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/us.svg"
+                      src="/img/flags/4x3/us.svg"
                       alt="image"
                       width="40"
                     />
@@ -449,7 +449,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/id.svg"
+                      src="/img/flags/4x3/id.svg"
                       alt="image"
                       width="40"
                     />
@@ -463,7 +463,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/ps.svg"
+                      src="/img/flags/4x3/ps.svg"
                       alt="image"
                       width="40"
                     />
@@ -477,7 +477,7 @@
                   <li class="media">
                     <img
                       class="img-fluid mt-1 img-shadow"
-                      src="/modules/flag-icon-css/flags/4x3/de.svg"
+                      src="/img/flags/4x3/de.svg"
                       alt="image"
                       width="40"
                     />

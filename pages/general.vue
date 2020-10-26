@@ -1,7 +1,6 @@
 <template>
   <div>
     <GeneralDashboard/>
-    <script src="/js/page/index-0.js"></script>
   </div>
 </template>
 
@@ -28,7 +27,8 @@ export default {
       { src: "/modules/jqvmap/dist/jquery.vmap.min.js" },
       { src: "/modules/jqvmap/dist/maps/jquery.vmap.world.js" },
       { src: "/modules/summernote/summernote-bs4.js" },
-      { src: "/modules/chocolat/dist/js/jquery.chocolat.min.js" }
+      { src: "/modules/chocolat/dist/js/jquery.chocolat.min.js" },
+      { src: "/js/page/index-0.js", body: true }
     ],
   },
   components: {

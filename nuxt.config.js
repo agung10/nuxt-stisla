@@ -14,8 +14,6 @@ export default {
 
       { rel: "stylesheet", href: "/modules/bootstrap/css/bootstrap.min.css" },
       { rel: "stylesheet", href: "/modules/fontawesome/css/all.min.css" },
-      { rel: "stylesheet", href: "/css/style.css" },
-      { rel: "stylesheet", href: "/css/components.css" },
     ],
     script: [
       { src: "/modules/jquery.min.js" },
@@ -30,7 +28,10 @@ export default {
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: [
+		"~/assets/css/style.css",
+		"~/assets/css/components.css",
+  ],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],

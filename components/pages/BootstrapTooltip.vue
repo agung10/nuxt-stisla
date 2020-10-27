@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Tooltip</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Tooltip</div>
       </div>
     </div>
@@ -88,7 +88,7 @@
               <h4>Link</h4>
             </div>
             <div class="card-body">
-              <a href="#" data-toggle="tooltip" title="Tooltip, bro!"
+              <a href="javascript:void(0)" data-toggle="tooltip" title="Tooltip, bro!"
                 >Hover me!</a
               >
             </div>

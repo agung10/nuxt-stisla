@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Pricing</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">Pricing</div>
       </div>
     </div>
@@ -58,7 +58,7 @@
               </div>
             </div>
             <div class="pricing-cta">
-              <a href="#">Subscribe <i class="fas fa-arrow-right"></i></a>
+              <a href="javascript:void(0)">Subscribe <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -104,7 +104,7 @@
               </div>
             </div>
             <div class="pricing-cta">
-              <a href="#">Subscribe <i class="fas fa-arrow-right"></i></a>
+              <a href="javascript:void(0)">Subscribe <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@
               </div>
             </div>
             <div class="pricing-cta">
-              <a href="#">Subscribe <i class="fas fa-arrow-right"></i></a>
+              <a href="javascript:void(0)">Subscribe <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>

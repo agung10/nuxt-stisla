@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Media Object</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Media Object</div>
       </div>
     </div>
@@ -120,7 +120,7 @@
                   </p>
 
                   <div class="media mt-3">
-                    <a class="pr-3" href="#">
+                    <a class="pr-3" href="javascript:void(0)">
                       <img
                         src="/img/example-image-50.jpg"
                         alt="Generic placeholder image"

@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Dropdown</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Dropdown</div>
       </div>
     </div>
@@ -35,9 +35,9 @@
                   Easy Dropdown
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                 </div>
               </div>
               <div class="dropdown d-inline mr-2">
@@ -52,9 +52,9 @@
                   Easy Dropdown
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                 </div>
               </div>
               <div class="dropdown d-inline">
@@ -69,9 +69,9 @@
                   Easy Dropdown
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                 </div>
               </div>
             </div>
@@ -93,11 +93,11 @@
                   <span class="sr-only">Toggle Dropdown</span>
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
             </div>
@@ -118,11 +118,11 @@
                   Dropup
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
               <div class="btn-group dropright">
@@ -136,11 +136,11 @@
                   Dropright
                 </button>
                 <div class="dropdown-menu dropright">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
               <div class="btn-group dropleft">
@@ -154,11 +154,11 @@
                   Dropleft
                 </button>
                 <div class="dropdown-menu dropleft">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
             </div>
@@ -182,13 +182,13 @@
                   With Icon
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item has-icon" href="#"
+                  <a class="dropdown-item has-icon" href="javascript:void(0)"
                     ><i class="far fa-heart"></i> Action</a
                   >
-                  <a class="dropdown-item has-icon" href="#"
+                  <a class="dropdown-item has-icon" href="javascript:void(0)"
                     ><i class="far fa-file"></i> Another action</a
                   >
-                  <a class="dropdown-item has-icon" href="#"
+                  <a class="dropdown-item has-icon" href="javascript:void(0)"
                     ><i class="far fa-clock"></i> Something else here</a
                   >
                 </div>
@@ -211,11 +211,11 @@
                   Small button
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
               <div class="btn-group mb-2">
@@ -229,11 +229,11 @@
                   Normal button
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
               <div class="btn-group mb-2">
@@ -247,11 +247,11 @@
                   Large button
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
             </div>
@@ -273,11 +273,11 @@
                 </button>
                 <div class="dropdown-menu">
                   <div class="dropdown-title">Hi, John!</div>
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Separated link</a>
+                  <a class="dropdown-item" href="javascript:void(0)">Separated link</a>
                 </div>
               </div>
             </div>

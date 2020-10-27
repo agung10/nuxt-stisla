@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Breadcrumb</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Breadcrumb</div>
       </div>
     </div>
@@ -32,8 +32,8 @@
               </nav>
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="#">Home</a></li>
-                  <li class="breadcrumb-item"><a href="#">Library</a></li>
+                  <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>
+                  <li class="breadcrumb-item"><a href="javascript:void(0)">Library</a></li>
                   <li class="breadcrumb-item active" aria-current="page">
                     Data
                   </li>
@@ -56,10 +56,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -78,10 +78,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-primary text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -92,10 +92,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-warning text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -106,10 +106,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-success text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -120,10 +120,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-danger text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -134,10 +134,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-secondary text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data
@@ -148,10 +148,10 @@
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb bg-dark text-white-all">
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="fas fa-tachometer-alt"></i> Home</a>
+                    <a href="javascript:void(0)"><i class="fas fa-tachometer-alt"></i> Home</a>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#"><i class="far fa-file"></i> Library</a>
+                    <a href="javascript:void(0)"><i class="far fa-file"></i> Library</a>
                   </li>
                   <li class="breadcrumb-item active" aria-current="page">
                     <i class="fas fa-list"></i> Data

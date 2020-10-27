@@ -3,7 +3,8 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _4cfcbcf0 = () => interopDefault(import('../pages/general.vue' /* webpackChunkName: "pages/general" */))
+const _36541ab6 = () => interopDefault(import('../pages/dashboard/ecommerce.vue' /* webpackChunkName: "pages/dashboard/ecommerce" */))
+const _2c07c08d = () => interopDefault(import('../pages/dashboard/general.vue' /* webpackChunkName: "pages/dashboard/general" */))
 const _5e4fe5a3 = () => interopDefault(import('../pages/starter/blankPage.vue' /* webpackChunkName: "pages/starter/blankPage" */))
 const _563f581b = () => interopDefault(import('../pages/starter/bootstrap/alert.vue' /* webpackChunkName: "pages/starter/bootstrap/alert" */))
 const _2b57eee2 = () => interopDefault(import('../pages/starter/bootstrap/badge.vue' /* webpackChunkName: "pages/starter/bootstrap/badge" */))
@@ -26,7 +27,6 @@ const _36e3818d = () => interopDefault(import('../pages/starter/bootstrap/table.
 const _6d3e0582 = () => interopDefault(import('../pages/starter/bootstrap/tooltip.vue' /* webpackChunkName: "pages/starter/bootstrap/tooltip" */))
 const _00150e80 = () => interopDefault(import('../pages/starter/bootstrap/typography.vue' /* webpackChunkName: "pages/starter/bootstrap/typography" */))
 const _05a032b6 = () => interopDefault(import('../pages/starter/layout/defaultLayout.vue' /* webpackChunkName: "pages/starter/layout/defaultLayout" */))
-const _584f3c34 = () => interopDefault(import('../pages/starter/layout/topNavigation.vue' /* webpackChunkName: "pages/starter/layout/topNavigation" */))
 const _371b200c = () => interopDefault(import('../pages/stisla/components/article.vue' /* webpackChunkName: "pages/stisla/components/article" */))
 const _825ca79a = () => interopDefault(import('../pages/stisla/components/avatar.vue' /* webpackChunkName: "pages/stisla/components/avatar" */))
 const _ffc9202e = () => interopDefault(import('../pages/stisla/components/chatBox.vue' /* webpackChunkName: "pages/stisla/components/chatBox" */))
@@ -58,9 +58,13 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/general",
-    component: _4cfcbcf0,
-    name: "general"
+    path: "/dashboard/ecommerce",
+    component: _36541ab6,
+    name: "dashboard-ecommerce"
+  }, {
+    path: "/dashboard/general",
+    component: _2c07c08d,
+    name: "dashboard-general"
   }, {
     path: "/starter/blankPage",
     component: _5e4fe5a3,
@@ -149,10 +153,6 @@ export const routerOptions = {
     path: "/starter/layout/defaultLayout",
     component: _05a032b6,
     name: "starter-layout-defaultLayout"
-  }, {
-    path: "/starter/layout/topNavigation",
-    component: _584f3c34,
-    name: "starter-layout-topNavigation"
   }, {
     path: "/stisla/components/article",
     component: _371b200c,

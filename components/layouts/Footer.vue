@@ -7,7 +7,7 @@
         Design By <a href="https://nauval.in/">Muhamad Nauval Azhar</a>
       </div>
       <div class="footer-right">
-        ⚡️ Nuxt templating by
+        ⚡️ Nuxt layouting by
         <a href="https://romadhanedy.my.id">Romadhan Prasetyo</a>
       </div>
     </footer>

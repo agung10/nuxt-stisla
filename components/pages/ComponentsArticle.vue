@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Article</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">Article</div>
       </div>
     </div>
@@ -25,7 +25,7 @@
               ></div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
             </div>
@@ -35,7 +35,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#" class="btn btn-primary">Read More</a>
+                <a href="javascript:void(0)" class="btn btn-primary">Read More</a>
               </div>
             </div>
           </article>
@@ -49,7 +49,7 @@
               ></div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
             </div>
@@ -59,7 +59,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#" class="btn btn-primary">Read More</a>
+                <a href="javascript:void(0)" class="btn btn-primary">Read More</a>
               </div>
             </div>
           </article>
@@ -73,7 +73,7 @@
               ></div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
             </div>
@@ -83,7 +83,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#" class="btn btn-primary">Read More</a>
+                <a href="javascript:void(0)" class="btn btn-primary">Read More</a>
               </div>
             </div>
           </article>
@@ -97,7 +97,7 @@
               ></div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
             </div>
@@ -107,7 +107,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#" class="btn btn-primary">Read More</a>
+                <a href="javascript:void(0)" class="btn btn-primary">Read More</a>
               </div>
             </div>
           </article>
@@ -132,7 +132,7 @@
             <div class="article-details">
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -140,7 +140,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#">Read More <i class="fas fa-chevron-right"></i></a>
+                <a href="javascript:void(0)">Read More <i class="fas fa-chevron-right"></i></a>
               </div>
             </div>
           </article>
@@ -156,7 +156,7 @@
             <div class="article-details">
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -164,7 +164,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#">Read More <i class="fas fa-chevron-right"></i></a>
+                <a href="javascript:void(0)">Read More <i class="fas fa-chevron-right"></i></a>
               </div>
             </div>
           </article>
@@ -180,7 +180,7 @@
             <div class="article-details">
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -188,7 +188,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#">Read More <i class="fas fa-chevron-right"></i></a>
+                <a href="javascript:void(0)">Read More <i class="fas fa-chevron-right"></i></a>
               </div>
             </div>
           </article>
@@ -204,7 +204,7 @@
             <div class="article-details">
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -212,7 +212,7 @@
                 cillum dolore eu fugiat nulla pariatur.
               </p>
               <div class="article-cta">
-                <a href="#">Read More <i class="fas fa-chevron-right"></i></a>
+                <a href="javascript:void(0)">Read More <i class="fas fa-chevron-right"></i></a>
               </div>
             </div>
           </article>
@@ -230,13 +230,13 @@
             </div>
             <div class="article-details">
               <div class="article-category">
-                <a href="#">News</a>
+                <a href="javascript:void(0)">News</a>
                 <div class="bullet"></div>
-                <a href="#">5 Days</a>
+                <a href="javascript:void(0)">5 Days</a>
               </div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -247,7 +247,7 @@
                 <img alt="image" src="/img/avatar/avatar-1.png" />
                 <div class="article-user-details">
                   <div class="user-detail-name">
-                    <a href="#">Hasan Basri</a>
+                    <a href="javascript:void(0)">Hasan Basri</a>
                   </div>
                   <div class="text-job">Web Developer</div>
                 </div>
@@ -265,13 +265,13 @@
             </div>
             <div class="article-details">
               <div class="article-category">
-                <a href="#">News</a>
+                <a href="javascript:void(0)">News</a>
                 <div class="bullet"></div>
-                <a href="#">5 Days</a>
+                <a href="javascript:void(0)">5 Days</a>
               </div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -282,7 +282,7 @@
                 <img alt="image" src="/img/avatar/avatar-3.png" />
                 <div class="article-user-details">
                   <div class="user-detail-name">
-                    <a href="#">Rizal Fakhri</a>
+                    <a href="javascript:void(0)">Rizal Fakhri</a>
                   </div>
                   <div class="text-job">UX Designer</div>
                 </div>
@@ -300,13 +300,13 @@
             </div>
             <div class="article-details">
               <div class="article-category">
-                <a href="#">News</a>
+                <a href="javascript:void(0)">News</a>
                 <div class="bullet"></div>
-                <a href="#">5 Days</a>
+                <a href="javascript:void(0)">5 Days</a>
               </div>
               <div class="article-title">
                 <h2>
-                  <a href="#">Excepteur sint occaecat cupidatat non proident</a>
+                  <a href="javascript:void(0)">Excepteur sint occaecat cupidatat non proident</a>
                 </h2>
               </div>
               <p>
@@ -317,7 +317,7 @@
                 <img alt="image" src="/img/avatar/avatar-2.png" />
                 <div class="article-user-details">
                   <div class="user-detail-name">
-                    <a href="#">Irwansyah Saputra</a>
+                    <a href="javascript:void(0)">Irwansyah Saputra</a>
                   </div>
                   <div class="text-job">Mobile Developer</div>
                 </div>

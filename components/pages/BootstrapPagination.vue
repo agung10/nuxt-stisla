@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Pagination</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Pagination</div>
       </div>
     </div>
@@ -26,13 +26,13 @@
               <nav aria-label="Page navigation example">
                 <ul class="pagination">
                   <li class="page-item">
-                    <a class="page-link" href="#">Previous</a>
+                    <a class="page-link" href="javascript:void(0)">Previous</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">1</a></li>
-                  <li class="page-item"><a class="page-link" href="#">2</a></li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">1</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">2</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                   <li class="page-item">
-                    <a class="page-link" href="#">Next</a>
+                    <a class="page-link" href="javascript:void(0)">Next</a>
                   </li>
                 </ul>
               </nav>
@@ -46,17 +46,17 @@
               <nav aria-label="...">
                 <ul class="pagination">
                   <li class="page-item disabled">
-                    <a class="page-link" href="#" tabindex="-1">Previous</a>
+                    <a class="page-link" href="javascript:void(0)" tabindex="-1">Previous</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">1</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">1</a></li>
                   <li class="page-item active">
-                    <a class="page-link" href="#"
+                    <a class="page-link" href="javascript:void(0)"
                       >2 <span class="sr-only">(current)</span></a
                     >
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                   <li class="page-item">
-                    <a class="page-link" href="#">Next</a>
+                    <a class="page-link" href="javascript:void(0)">Next</a>
                   </li>
                 </ul>
               </nav>
@@ -73,22 +73,22 @@
                 <nav aria-label="Page navigation example">
                   <ul class="pagination">
                     <li class="page-item">
-                      <a class="page-link" href="#" aria-label="Previous">
+                      <a class="page-link" href="javascript:void(0)" aria-label="Previous">
                         <span aria-hidden="true">&laquo;</span>
                         <span class="sr-only">Previous</span>
                       </a>
                     </li>
                     <li class="page-item">
-                      <a class="page-link" href="#">1</a>
+                      <a class="page-link" href="javascript:void(0)">1</a>
                     </li>
                     <li class="page-item">
-                      <a class="page-link" href="#">2</a>
+                      <a class="page-link" href="javascript:void(0)">2</a>
                     </li>
                     <li class="page-item">
-                      <a class="page-link" href="#">3</a>
+                      <a class="page-link" href="javascript:void(0)">3</a>
                     </li>
                     <li class="page-item">
-                      <a class="page-link" href="#" aria-label="Next">
+                      <a class="page-link" href="javascript:void(0)" aria-label="Next">
                         <span aria-hidden="true">&raquo;</span>
                         <span class="sr-only">Next</span>
                       </a>
@@ -106,19 +106,19 @@
               <nav aria-label="...">
                 <ul class="pagination pagination-sm">
                   <li class="page-item disabled">
-                    <a class="page-link" href="#" tabindex="-1">1</a>
+                    <a class="page-link" href="javascript:void(0)" tabindex="-1">1</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">2</a></li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">2</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                 </ul>
               </nav>
               <nav aria-label="...">
                 <ul class="pagination pagination-lg">
                   <li class="page-item disabled">
-                    <a class="page-link" href="#" tabindex="-1">1</a>
+                    <a class="page-link" href="javascript:void(0)" tabindex="-1">1</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">2</a></li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">2</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                 </ul>
               </nav>
             </div>

@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Buttons</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Button</div>
       </div>
     </div>
@@ -27,15 +27,15 @@
                 Use the <code>.btn .btn-{color}</code> classes.
               </p>
               <div class="buttons">
-                <a href="#" class="btn btn-primary">Primary</a>
-                <a href="#" class="btn btn-secondary">Secondary</a>
-                <a href="#" class="btn btn-info">Info</a>
-                <a href="#" class="btn btn-warning">Warning</a>
-                <a href="#" class="btn btn-danger">Danger</a>
-                <a href="#" class="btn btn-success">Success</a>
-                <a href="#" class="btn btn-light">Light</a>
-                <a href="#" class="btn btn-dark">Dark</a>
-                <a href="#" class="btn">Link</a>
+                <a href="javascript:void(0)" class="btn btn-primary">Primary</a>
+                <a href="javascript:void(0)" class="btn btn-secondary">Secondary</a>
+                <a href="javascript:void(0)" class="btn btn-info">Info</a>
+                <a href="javascript:void(0)" class="btn btn-warning">Warning</a>
+                <a href="javascript:void(0)" class="btn btn-danger">Danger</a>
+                <a href="javascript:void(0)" class="btn btn-success">Success</a>
+                <a href="javascript:void(0)" class="btn btn-light">Light</a>
+                <a href="javascript:void(0)" class="btn btn-dark">Dark</a>
+                <a href="javascript:void(0)" class="btn">Link</a>
               </div>
             </div>
           </div>
@@ -50,14 +50,14 @@
                 Use the <code>.btn .btn-outline-{color}</code> classes.
               </p>
               <div class="buttons">
-                <a href="#" class="btn btn-outline-primary">Primary</a>
-                <a href="#" class="btn btn-outline-secondary">Secondary</a>
-                <a href="#" class="btn btn-outline-info">Info</a>
-                <a href="#" class="btn btn-outline-warning">Warning</a>
-                <a href="#" class="btn btn-outline-danger">Danger</a>
-                <a href="#" class="btn btn-outline-success">Success</a>
-                <a href="#" class="btn btn-outline-light">Light</a>
-                <a href="#" class="btn btn-outline-dark">Dark</a>
+                <a href="javascript:void(0)" class="btn btn-outline-primary">Primary</a>
+                <a href="javascript:void(0)" class="btn btn-outline-secondary">Secondary</a>
+                <a href="javascript:void(0)" class="btn btn-outline-info">Info</a>
+                <a href="javascript:void(0)" class="btn btn-outline-warning">Warning</a>
+                <a href="javascript:void(0)" class="btn btn-outline-danger">Danger</a>
+                <a href="javascript:void(0)" class="btn btn-outline-success">Success</a>
+                <a href="javascript:void(0)" class="btn btn-outline-light">Light</a>
+                <a href="javascript:void(0)" class="btn btn-outline-dark">Dark</a>
               </div>
             </div>
           </div>
@@ -74,9 +74,9 @@
                 Use the <code>.btn-lg</code> or <code>.btn-sm</code> classes.
               </p>
               <div class="buttons">
-                <a href="#" class="btn btn-sm btn-warning">Small</a>
-                <a href="#" class="btn btn-danger">Normal</a>
-                <a href="#" class="btn btn-lg btn-dark">Large</a>
+                <a href="javascript:void(0)" class="btn btn-sm btn-warning">Small</a>
+                <a href="javascript:void(0)" class="btn btn-danger">Normal</a>
+                <a href="javascript:void(0)" class="btn btn-lg btn-dark">Large</a>
               </div>
             </div>
           </div>
@@ -92,9 +92,9 @@
                 <code>.btn-progress</code> classes.
               </p>
               <div class="buttons">
-                <a href="#" class="btn btn-primary">Normal</a>
-                <a href="#" class="btn disabled btn-primary">Disabled</a>
-                <a href="#" class="btn disabled btn-primary btn-progress"
+                <a href="javascript:void(0)" class="btn btn-primary">Normal</a>
+                <a href="javascript:void(0)" class="btn disabled btn-primary">Disabled</a>
+                <a href="javascript:void(0)" class="btn disabled btn-primary btn-progress"
                   >Progress</a
                 >
               </div>
@@ -114,31 +114,31 @@
                 <code>.icon-left</code> classes.
               </p>
               <div class="buttons">
-                <a href="#" class="btn btn-icon icon-left"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left"
                   ><i class="far fa-user"></i> Default</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-primary"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-primary"
                   ><i class="far fa-edit"></i> Primary</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-secondary"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-secondary"
                   ><i class="far fa-user"></i> Secondary</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-info"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-info"
                   ><i class="fas fa-info-circle"></i> Info</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-warning"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-warning"
                   ><i class="fas fa-exclamation-triangle"></i> Warning</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-danger"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-danger"
                   ><i class="fas fa-times"></i> Danger</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-success"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-success"
                   ><i class="fas fa-check"></i> Success</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-light"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-light"
                   ><i class="fas fa-star"></i> Light</a
                 >
-                <a href="#" class="btn btn-icon icon-left btn-dark"
+                <a href="javascript:void(0)" class="btn btn-icon icon-left btn-dark"
                   ><i class="far fa-file"></i> Dark</a
                 >
               </div>
@@ -153,40 +153,40 @@
             <div class="card-body">
               <p class="text-muted">Use the <code>.btn-icon</code> class.</p>
               <div class="buttons">
-                <a href="#" class="btn btn-icon btn-primary"
+                <a href="javascript:void(0)" class="btn btn-icon btn-primary"
                   ><i class="far fa-edit"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-secondary"
+                <a href="javascript:void(0)" class="btn btn-icon btn-secondary"
                   ><i class="far fa-user"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-info"
+                <a href="javascript:void(0)" class="btn btn-icon btn-info"
                   ><i class="fas fa-info-circle"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-warning"
+                <a href="javascript:void(0)" class="btn btn-icon btn-warning"
                   ><i class="fas fa-exclamation-triangle"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-danger"
+                <a href="javascript:void(0)" class="btn btn-icon btn-danger"
                   ><i class="fas fa-times"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-success"
+                <a href="javascript:void(0)" class="btn btn-icon btn-success"
                   ><i class="fas fa-check"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-light"
+                <a href="javascript:void(0)" class="btn btn-icon btn-light"
                   ><i class="fas fa-star"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-dark"
+                <a href="javascript:void(0)" class="btn btn-icon btn-dark"
                   ><i class="far fa-file"></i
                 ></a>
               </div>
               <p class="text-muted mt-2">Sizes.</p>
               <div class="buttons">
-                <a href="#" class="btn btn-icon btn-sm btn-warning"
+                <a href="javascript:void(0)" class="btn btn-icon btn-sm btn-warning"
                   ><i class="fas fa-exclamation-triangle"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-danger"
+                <a href="javascript:void(0)" class="btn btn-icon btn-danger"
                   ><i class="fas fa-times"></i
                 ></a>
-                <a href="#" class="btn btn-icon btn-lg btn-success"
+                <a href="javascript:void(0)" class="btn btn-icon btn-lg btn-success"
                   ><i class="fas fa-check"></i
                 ></a>
               </div>

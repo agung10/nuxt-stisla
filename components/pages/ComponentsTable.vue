@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Table</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">Table</div>
       </div>
     </div>
@@ -34,28 +34,28 @@
                     <td>Irwansyah Saputra</td>
                     <td>2017-01-09</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>2</td>
                     <td>Hasan Basri</td>
                     <td>2017-01-09</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>3</td>
                     <td>Kusnadi</td>
                     <td>2017-01-11</td>
                     <td><div class="badge badge-danger">Not Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>4</td>
                     <td>Rizal Fakhri</td>
                     <td>2017-01-11</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                 </table>
               </div>
@@ -64,21 +64,21 @@
               <nav class="d-inline-block">
                 <ul class="pagination mb-0">
                   <li class="page-item disabled">
-                    <a class="page-link" href="#" tabindex="-1"
+                    <a class="page-link" href="javascript:void(0)" tabindex="-1"
                       ><i class="fas fa-chevron-left"></i
                     ></a>
                   </li>
                   <li class="page-item active">
-                    <a class="page-link" href="#"
+                    <a class="page-link" href="javascript:void(0)"
                       >1 <span class="sr-only">(current)</span></a
                     >
                   </li>
                   <li class="page-item">
-                    <a class="page-link" href="#">2</a>
+                    <a class="page-link" href="javascript:void(0)">2</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                   <li class="page-item">
-                    <a class="page-link" href="#"
+                    <a class="page-link" href="javascript:void(0)"
                       ><i class="fas fa-chevron-right"></i
                     ></a>
                   </li>
@@ -107,35 +107,35 @@
                     <td>Irwansyah Saputra</td>
                     <td>2017-01-09</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>2</td>
                     <td>Hasan Basri</td>
                     <td>2017-01-09</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>3</td>
                     <td>Kusnadi</td>
                     <td>2017-01-11</td>
                     <td><div class="badge badge-danger">Not Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>4</td>
                     <td>Rizal Fakhri</td>
                     <td>2017-01-11</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td>5</td>
                     <td>Isnap Kiswandi</td>
                     <td>2017-01-17</td>
                     <td><div class="badge badge-success">Active</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                 </table>
               </div>
@@ -144,21 +144,21 @@
               <nav class="d-inline-block">
                 <ul class="pagination mb-0">
                   <li class="page-item disabled">
-                    <a class="page-link" href="#" tabindex="-1"
+                    <a class="page-link" href="javascript:void(0)" tabindex="-1"
                       ><i class="fas fa-chevron-left"></i
                     ></a>
                   </li>
                   <li class="page-item active">
-                    <a class="page-link" href="#"
+                    <a class="page-link" href="javascript:void(0)"
                       >1 <span class="sr-only">(current)</span></a
                     >
                   </li>
                   <li class="page-item">
-                    <a class="page-link" href="#">2</a>
+                    <a class="page-link" href="javascript:void(0)">2</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="javascript:void(0)">3</a></li>
                   <li class="page-item">
-                    <a class="page-link" href="#"
+                    <a class="page-link" href="javascript:void(0)"
                       ><i class="fas fa-chevron-right"></i
                     ></a>
                   </li>
@@ -255,7 +255,7 @@
                     </td>
                     <td>2018-01-20</td>
                     <td><div class="badge badge-success">Completed</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td class="p-0 text-center">
@@ -310,7 +310,7 @@
                     </td>
                     <td>2018-04-10</td>
                     <td><div class="badge badge-info">Todo</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td class="p-0 text-center">
@@ -360,7 +360,7 @@
                     </td>
                     <td>2018-01-29</td>
                     <td><div class="badge badge-warning">In Progress</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                   <tr>
                     <td class="p-0 text-center">
@@ -426,7 +426,7 @@
                     </td>
                     <td>2018-01-16</td>
                     <td><div class="badge badge-success">Completed</div></td>
-                    <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                    <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                   </tr>
                 </table>
               </div>
@@ -505,7 +505,7 @@
                       </td>
                       <td>2018-01-20</td>
                       <td><div class="badge badge-success">Completed</div></td>
-                      <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                      <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                     </tr>
                     <tr>
                       <td>
@@ -552,7 +552,7 @@
                       </td>
                       <td>2018-04-10</td>
                       <td><div class="badge badge-info">Todo</div></td>
-                      <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                      <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                     </tr>
                     <tr>
                       <td>
@@ -596,7 +596,7 @@
                       <td>
                         <div class="badge badge-warning">In Progress</div>
                       </td>
-                      <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                      <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                     </tr>
                     <tr>
                       <td>
@@ -654,7 +654,7 @@
                       </td>
                       <td>2018-01-16</td>
                       <td><div class="badge badge-success">Completed</div></td>
-                      <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                      <td><a href="javascript:void(0)" class="btn btn-secondary">Detail</a></td>
                     </tr>
                   </tbody>
                 </table>

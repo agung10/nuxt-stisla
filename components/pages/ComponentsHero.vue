@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Hero</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">Hero</div>
       </div>
     </div>
@@ -36,7 +36,7 @@
               </p>
               <div class="mt-4">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="btn btn-outline-white btn-lg btn-icon icon-left"
                   ><i class="far fa-user"></i> Setup Account</a
                 >
@@ -54,7 +54,7 @@
               </p>
               <div class="mt-4">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="btn btn-outline-white btn-lg btn-icon icon-left"
                   ><i class="fas fa-sign-in-alt"></i> Login</a
                 >
@@ -75,7 +75,7 @@
               </p>
               <div class="mt-4">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="btn btn-outline-white btn-lg btn-icon icon-left"
                   ><i class="far fa-user"></i> Setup Account</a
                 >
@@ -96,7 +96,7 @@
               </p>
               <div class="mt-4">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="btn btn-outline-white btn-lg btn-icon icon-left"
                   ><i class="far fa-user"></i> Setup Account</a
                 >

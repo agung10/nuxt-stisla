@@ -1,5 +1,4 @@
 export default {
-  // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     ssr: false,
     target: "static",
@@ -11,7 +10,6 @@ export default {
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
-
       { rel: "stylesheet", href: "/modules/bootstrap/css/bootstrap.min.css" },
       { rel: "stylesheet", href: "/modules/fontawesome/css/all.min.css" },
     ],
@@ -26,25 +24,5 @@ export default {
       { src: "/js/scripts.js" },
     ],
   },
-
-  // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [
-		"~/assets/css/style.css",
-		"~/assets/css/components.css",
-  ],
-
-  // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
-
-  // Auto import components (https://go.nuxtjs.dev/config-components)
-  components: true,
-
-  // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
-  buildModules: [],
-
-  // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [],
-
-  // Build Configuration (https://go.nuxtjs.dev/config-build)
-  build: {},
+  css: ["~/assets/css/style.css", "~/assets/css/components.css"]
 };

@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Nav</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Nav</div>
       </div>
     </div>
@@ -24,16 +24,16 @@
             <div class="card-body">
               <ul class="nav">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Active</a>
+                  <a class="nav-link active" href="javascript:void(0)">Active</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link disabled" href="#">Disabled</a>
+                  <a class="nav-link disabled" href="javascript:void(0)">Disabled</a>
                 </li>
               </ul>
             </div>
@@ -45,16 +45,16 @@
             <div class="card-body">
               <ul class="nav flex-column">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Active</a>
+                  <a class="nav-link active" href="javascript:void(0)">Active</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link disabled" href="#">Disabled</a>
+                  <a class="nav-link disabled" href="javascript:void(0)">Disabled</a>
                 </li>
               </ul>
             </div>
@@ -68,16 +68,16 @@
             <div class="card-body">
               <ul class="nav nav-tabs">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Active</a>
+                  <a class="nav-link active" href="javascript:void(0)">Active</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link disabled" href="#">Disabled</a>
+                  <a class="nav-link disabled" href="javascript:void(0)">Disabled</a>
                 </li>
               </ul>
             </div>
@@ -90,32 +90,32 @@
               <div class="section-title mt-0">Simple</div>
               <ul class="nav nav-pills">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Active</a>
+                  <a class="nav-link active" href="javascript:void(0)">Active</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="nav-link" href="javascript:void(0)">Link</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link disabled" href="#">Disabled</a>
+                  <a class="nav-link disabled" href="javascript:void(0)">Disabled</a>
                 </li>
               </ul>
               <div class="section-title">Icon</div>
               <ul class="nav nav-pills">
                 <li class="nav-item">
-                  <a class="nav-link active" href="#"
+                  <a class="nav-link active" href="javascript:void(0)"
                     ><i class="fas fa-home"></i> Home</a
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"
+                  <a class="nav-link" href="javascript:void(0)"
                     ><i class="fas fa-user"></i> Profile</a
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"
+                  <a class="nav-link" href="javascript:void(0)"
                     ><i class="fas fa-cog"></i> Setting</a
                   >
                 </li>

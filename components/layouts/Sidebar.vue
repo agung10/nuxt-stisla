@@ -16,12 +16,12 @@
             >
             <ul class="dropdown-menu">
               <li :class="menu('generalDashboard')">
-                <nuxt-link class="nav-link" to="/general"
+                <nuxt-link class="nav-link" to="/dashboard/general"
                   >General Dashboard</nuxt-link
                 >
               </li>
               <li :class="menu('ecommerceDashboard')">
-                <nuxt-link to="/" class="nav-link"
+                <nuxt-link class="nav-link" to="/dashboard/ecommerce"
                   >Ecommerce Dashboard</nuxt-link
                 >
               </li>
@@ -39,11 +39,6 @@
               <li :class="menu('defaultLayout')">
                 <nuxt-link class="nav-link" to="/starter/layout/defaultLayout"
                   >Default Layout</nuxt-link
-                >
-              </li>
-              <li :class="menu('topNavigation')">
-                <nuxt-link class="nav-link" to="/starter/layout/topNavigation"
-                  >Top Navigation</nuxt-link
                 >
               </li>
             </ul>
@@ -161,7 +156,7 @@
             </ul>
           </li>
           <li class="menu-header">Stisla</li>
-          <li class="dropdown">
+          <li class="dropdown" :class="menu('components')">
             <a href="javascript:void(0)" class="nav-link has-dropdown"
               ><i class="fas fa-th-large"></i> <span>Components</span></a
             >

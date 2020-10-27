@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Wizard</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">Wizard</div>
       </div>
     </div>
@@ -249,7 +249,7 @@
                   <div class="form-group row">
                     <div class="col-md-4"></div>
                     <div class="col-lg-4 col-md-6 text-right">
-                      <a href="#" class="btn btn-icon icon-right btn-primary"
+                      <a href="javascript:void(0)" class="btn btn-icon icon-right btn-primary"
                         >Next <i class="fas fa-arrow-right"></i
                       ></a>
                     </div>

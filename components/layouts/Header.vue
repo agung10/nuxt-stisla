@@ -4,13 +4,13 @@
       <form class="form-inline mr-auto">
         <ul class="navbar-nav mr-3">
           <li>
-            <a href="#" data-toggle="sidebar" class="nav-link nav-link-lg"
+            <a href="javascript:void(0)" data-toggle="sidebar" class="nav-link nav-link-lg"
               ><i class="fas fa-bars"></i
             ></a>
           </li>
           <li>
             <a
-              href="#"
+              href="javascript:void(0)"
               data-toggle="search"
               class="nav-link nav-link-lg d-sm-none"
               ><i class="fas fa-search"></i
@@ -32,20 +32,20 @@
           <div class="search-result">
             <div class="search-header">Histories</div>
             <div class="search-item">
-              <a href="#">How to hack NASA using CSS</a>
-              <a href="#" class="search-close"><i class="fas fa-times"></i></a>
+              <a href="javascript:void(0)">How to hack NASA using CSS</a>
+              <a href="javascript:void(0)" class="search-close"><i class="fas fa-times"></i></a>
             </div>
             <div class="search-item">
-              <a href="#">Kodinger.com</a>
-              <a href="#" class="search-close"><i class="fas fa-times"></i></a>
+              <a href="javascript:void(0)">Kodinger.com</a>
+              <a href="javascript:void(0)" class="search-close"><i class="fas fa-times"></i></a>
             </div>
             <div class="search-item">
-              <a href="#">#Stisla</a>
-              <a href="#" class="search-close"><i class="fas fa-times"></i></a>
+              <a href="javascript:void(0)">#Stisla</a>
+              <a href="javascript:void(0)" class="search-close"><i class="fas fa-times"></i></a>
             </div>
             <div class="search-header">Result</div>
             <div class="search-item">
-              <a href="#">
+              <a href="javascript:void(0)">
                 <img
                   class="mr-3 rounded"
                   width="30"
@@ -56,7 +56,7 @@
               </a>
             </div>
             <div class="search-item">
-              <a href="#">
+              <a href="javascript:void(0)">
                 <img
                   class="mr-3 rounded"
                   width="30"
@@ -67,7 +67,7 @@
               </a>
             </div>
             <div class="search-item">
-              <a href="#">
+              <a href="javascript:void(0)">
                 <img
                   class="mr-3 rounded"
                   width="30"
@@ -79,7 +79,7 @@
             </div>
             <div class="search-header">Projects</div>
             <div class="search-item">
-              <a href="#">
+              <a href="javascript:void(0)">
                 <div class="search-icon bg-danger text-white mr-3">
                   <i class="fas fa-code"></i>
                 </div>
@@ -87,7 +87,7 @@
               </a>
             </div>
             <div class="search-item">
-              <a href="#">
+              <a href="javascript:void(0)">
                 <div class="search-icon bg-primary text-white mr-3">
                   <i class="fas fa-laptop"></i>
                 </div>
@@ -100,7 +100,7 @@
       <ul class="navbar-nav navbar-right">
         <li class="dropdown dropdown-list-toggle">
           <a
-            href="#"
+            href="javascript:void(0)"
             data-toggle="dropdown"
             class="nav-link nav-link-lg message-toggle beep"
             ><i class="far fa-envelope"></i
@@ -109,11 +109,11 @@
             <div class="dropdown-header">
               Messages
               <div class="float-right">
-                <a href="#">Mark All As Read</a>
+                <a href="javascript:void(0)">Mark All As Read</a>
               </div>
             </div>
             <div class="dropdown-list-content dropdown-list-message">
-              <a href="#" class="dropdown-item dropdown-item-unread">
+              <a href="javascript:void(0)" class="dropdown-item dropdown-item-unread">
                 <div class="dropdown-item-avatar">
                   <img
                     alt="image"
@@ -128,7 +128,7 @@
                   <div class="time">10 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item dropdown-item-unread">
+              <a href="javascript:void(0)" class="dropdown-item dropdown-item-unread">
                 <div class="dropdown-item-avatar">
                   <img
                     alt="image"
@@ -144,7 +144,7 @@
                   <div class="time">12 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item dropdown-item-unread">
+              <a href="javascript:void(0)" class="dropdown-item dropdown-item-unread">
                 <div class="dropdown-item-avatar">
                   <img
                     alt="image"
@@ -162,7 +162,7 @@
                   <div class="time">12 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-avatar">
                   <img
                     alt="image"
@@ -179,7 +179,7 @@
                   <div class="time">16 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-avatar">
                   <img
                     alt="image"
@@ -197,13 +197,13 @@
               </a>
             </div>
             <div class="dropdown-footer text-center">
-              <a href="#">View All <i class="fas fa-chevron-right"></i></a>
+              <a href="javascript:void(0)">View All <i class="fas fa-chevron-right"></i></a>
             </div>
           </div>
         </li>
         <li class="dropdown dropdown-list-toggle">
           <a
-            href="#"
+            href="javascript:void(0)"
             data-toggle="dropdown"
             class="nav-link notification-toggle nav-link-lg beep"
             ><i class="far fa-bell"></i
@@ -212,11 +212,11 @@
             <div class="dropdown-header">
               Notifications
               <div class="float-right">
-                <a href="#">Mark All As Read</a>
+                <a href="javascript:void(0)">Mark All As Read</a>
               </div>
             </div>
             <div class="dropdown-list-content dropdown-list-icons">
-              <a href="#" class="dropdown-item dropdown-item-unread">
+              <a href="javascript:void(0)" class="dropdown-item dropdown-item-unread">
                 <div class="dropdown-item-icon bg-primary text-white">
                   <i class="fas fa-code"></i>
                 </div>
@@ -225,7 +225,7 @@
                   <div class="time text-primary">2 Min Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-icon bg-info text-white">
                   <i class="far fa-user"></i>
                 </div>
@@ -234,7 +234,7 @@
                   <div class="time">10 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-icon bg-success text-white">
                   <i class="fas fa-check"></i>
                 </div>
@@ -244,7 +244,7 @@
                   <div class="time">12 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-icon bg-danger text-white">
                   <i class="fas fa-exclamation-triangle"></i>
                 </div>
@@ -253,7 +253,7 @@
                   <div class="time">17 Hours Ago</div>
                 </div>
               </a>
-              <a href="#" class="dropdown-item">
+              <a href="javascript:void(0)" class="dropdown-item">
                 <div class="dropdown-item-icon bg-info text-white">
                   <i class="fas fa-bell"></i>
                 </div>
@@ -264,13 +264,13 @@
               </a>
             </div>
             <div class="dropdown-footer text-center">
-              <a href="#">View All <i class="fas fa-chevron-right"></i></a>
+              <a href="javascript:void(0)">View All <i class="fas fa-chevron-right"></i></a>
             </div>
           </div>
         </li>
         <li class="dropdown">
           <a
-            href="#"
+            href="javascript:void(0)"
             data-toggle="dropdown"
             class="nav-link dropdown-toggle nav-link-lg nav-link-user"
           >
@@ -293,7 +293,7 @@
               <i class="fas fa-cog"></i> Settings
             </a>
             <div class="dropdown-divider"></div>
-            <a href="#" class="dropdown-item has-icon text-danger">
+            <a href="javascript:void(0)" class="dropdown-item has-icon text-danger">
               <i class="fas fa-sign-out-alt"></i> Logout
             </a>
           </div>

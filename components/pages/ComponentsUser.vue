@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>User</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Components</a></div>
         <div class="breadcrumb-item">User</div>
       </div>
     </div>
@@ -27,7 +27,7 @@
                 />
                 <div class="clearfix"></div>
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="btn btn-primary mt-3 follow-btn"
                   data-follow-action="alert('follow clicked');"
                   data-unfollow-action="alert('unfollow clicked');"
@@ -36,7 +36,7 @@
               </div>
               <div class="author-box-details">
                 <div class="author-box-name">
-                  <a href="#">Hasan Basri</a>
+                  <a href="javascript:void(0)">Hasan Basri</a>
                 </div>
                 <div class="author-box-job">Web Developer</div>
                 <div class="author-box-description">
@@ -50,21 +50,21 @@
                 <div class="mb-2 mt-3">
                   <div class="text-small font-weight-bold">Follow Hasan On</div>
                 </div>
-                <a href="#" class="btn btn-social-icon mr-1 btn-facebook">
+                <a href="javascript:void(0)" class="btn btn-social-icon mr-1 btn-facebook">
                   <i class="fab fa-facebook-f"></i>
                 </a>
-                <a href="#" class="btn btn-social-icon mr-1 btn-twitter">
+                <a href="javascript:void(0)" class="btn btn-social-icon mr-1 btn-twitter">
                   <i class="fab fa-twitter"></i>
                 </a>
-                <a href="#" class="btn btn-social-icon mr-1 btn-github">
+                <a href="javascript:void(0)" class="btn btn-social-icon mr-1 btn-github">
                   <i class="fab fa-github"></i>
                 </a>
-                <a href="#" class="btn btn-social-icon mr-1 btn-instagram">
+                <a href="javascript:void(0)" class="btn btn-social-icon mr-1 btn-instagram">
                   <i class="fab fa-instagram"></i>
                 </a>
                 <div class="w-100 d-sm-none"></div>
                 <div class="float-right mt-sm-0 mt-3">
-                  <a href="#" class="btn"
+                  <a href="javascript:void(0)" class="btn"
                     >View Posts <i class="fas fa-chevron-right"></i
                   ></a>
                 </div>
@@ -186,11 +186,11 @@
                       officia deserunt mollit anim id est laborum.
                     </div>
                     <div class="media-links">
-                      <a href="#">View</a>
+                      <a href="javascript:void(0)">View</a>
                       <div class="bullet"></div>
-                      <a href="#">Edit</a>
+                      <a href="javascript:void(0)">Edit</a>
                       <div class="bullet"></div>
-                      <a href="#" class="text-danger">Trash</a>
+                      <a href="javascript:void(0)" class="text-danger">Trash</a>
                     </div>
                   </div>
                 </li>
@@ -214,11 +214,11 @@
                       officia deserunt mollit anim id est laborum.
                     </div>
                     <div class="media-links">
-                      <a href="#">View</a>
+                      <a href="javascript:void(0)">View</a>
                       <div class="bullet"></div>
-                      <a href="#">Edit</a>
+                      <a href="javascript:void(0)">Edit</a>
                       <div class="bullet"></div>
-                      <a href="#" class="text-danger">Trash</a>
+                      <a href="javascript:void(0)" class="text-danger">Trash</a>
                     </div>
                   </div>
                 </li>
@@ -241,11 +241,11 @@
                       sint occaecat cupidatat non proident
                     </div>
                     <div class="media-links">
-                      <a href="#">View</a>
+                      <a href="javascript:void(0)">View</a>
                       <div class="bullet"></div>
-                      <a href="#">Edit</a>
+                      <a href="javascript:void(0)">Edit</a>
                       <div class="bullet"></div>
-                      <a href="#" class="text-danger">Trash</a>
+                      <a href="javascript:void(0)" class="text-danger">Trash</a>
                     </div>
                   </div>
                 </li>
@@ -283,7 +283,7 @@
                     </div>
                   </div>
                   <div class="media-cta">
-                    <a href="#" class="btn btn-outline-primary">Detail</a>
+                    <a href="javascript:void(0)" class="btn btn-outline-primary">Detail</a>
                   </div>
                 </li>
                 <li class="media">
@@ -307,7 +307,7 @@
                     </div>
                   </div>
                   <div class="media-cta">
-                    <a href="#" class="btn btn-outline-primary">Detail</a>
+                    <a href="javascript:void(0)" class="btn btn-outline-primary">Detail</a>
                   </div>
                 </li>
                 <li class="media">
@@ -331,7 +331,7 @@
                     </div>
                   </div>
                   <div class="media-cta">
-                    <a href="#" class="btn btn-outline-primary">Detail</a>
+                    <a href="javascript:void(0)" class="btn btn-outline-primary">Detail</a>
                   </div>
                 </li>
               </ul>

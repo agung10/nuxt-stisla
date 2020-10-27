@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>Card</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">Card</div>
       </div>
     </div>
@@ -45,8 +45,8 @@
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
               </p>
-              <a href="#" class="card-link">Card link</a>
-              <a href="#" class="card-link">Another link</a>
+              <a href="javascript:void(0)" class="card-link">Card link</a>
+              <a href="javascript:void(0)" class="card-link">Another link</a>
             </div>
           </div>
           <div class="card">
@@ -158,7 +158,7 @@
             <div class="card-header">
               <h4>Card Header</h4>
               <div class="card-header-action">
-                <a href="#" class="btn btn-primary"> View All </a>
+                <a href="javascript:void(0)" class="btn btn-primary"> View All </a>
               </div>
             </div>
             <div class="card-body">
@@ -170,9 +170,9 @@
               <h4>Button Group</h4>
               <div class="card-header-action">
                 <div class="btn-group">
-                  <a href="#" class="btn btn-primary">Home</a>
-                  <a href="#" class="btn btn-primary">Profile</a>
-                  <a href="#" class="btn btn-primary">Setting</a>
+                  <a href="javascript:void(0)" class="btn btn-primary">Home</a>
+                  <a href="javascript:void(0)" class="btn btn-primary">Profile</a>
+                  <a href="javascript:void(0)" class="btn btn-primary">Setting</a>
                 </div>
               </div>
             </div>
@@ -202,8 +202,8 @@
             <div class="card-header">
               <h4>Card Header</h4>
               <div class="card-header-action">
-                <a href="#" class="btn btn-primary">View All</a>
-                <a href="#" class="btn btn-danger">Delete All</a>
+                <a href="javascript:void(0)" class="btn btn-primary">View All</a>
+                <a href="javascript:void(0)" class="btn btn-danger">Delete All</a>
               </div>
             </div>
             <div class="card-body">
@@ -214,23 +214,23 @@
             <div class="card-header">
               <h4>Dropdown Button</h4>
               <div class="card-header-action">
-                <a href="#" class="btn btn-primary">View All</a>
+                <a href="javascript:void(0)" class="btn btn-primary">View All</a>
                 <div class="dropdown">
                   <a
-                    href="#"
+                    href="javascript:void(0)"
                     data-toggle="dropdown"
                     class="btn btn-warning dropdown-toggle"
                     >Options</a
                   >
                   <div class="dropdown-menu">
-                    <a href="#" class="dropdown-item has-icon"
+                    <a href="javascript:void(0)" class="dropdown-item has-icon"
                       ><i class="fas fa-eye"></i> View</a
                     >
-                    <a href="#" class="dropdown-item has-icon"
+                    <a href="javascript:void(0)" class="dropdown-item has-icon"
                       ><i class="far fa-edit"></i> Edit</a
                     >
                     <div class="dropdown-divider"></div>
-                    <a href="#" class="dropdown-item has-icon text-danger"
+                    <a href="javascript:void(0)" class="dropdown-item has-icon text-danger"
                       ><i class="far fa-trash-alt"></i> Delete</a
                     >
                   </div>
@@ -279,7 +279,7 @@
                 <a
                   data-collapse="#mycard-collapse"
                   class="btn btn-icon btn-info"
-                  href="#"
+                  href="javascript:void(0)"
                   ><i class="fas fa-minus"></i
                 ></a>
               </div>
@@ -293,7 +293,7 @@
             <div class="card-header">
               <h4>My Picture</h4>
               <div class="card-header-action">
-                <a href="#" class="btn btn-primary">View All</a>
+                <a href="javascript:void(0)" class="btn btn-primary">View All</a>
               </div>
             </div>
             <div class="card-body">
@@ -326,7 +326,7 @@
                 <a
                   data-dismiss="#mycard-dimiss"
                   class="btn btn-icon btn-danger"
-                  href="#"
+                  href="javascript:void(0)"
                   ><i class="fas fa-times"></i
                 ></a>
               </div>
@@ -395,7 +395,7 @@
                 >
                   Login
                 </button>
-                <a href="#" class="ml-2">Create new Account?</a>
+                <a href="javascript:void(0)" class="ml-2">Create new Account?</a>
               </div>
             </form>
           </div>

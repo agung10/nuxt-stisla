@@ -1,10 +1,17 @@
 [
   {
-    "name": "general",
-    "path": "/general",
-    "component": "/var/www/html/Nuxt Project/nuxt-stisla/pages/general.vue",
-    "chunkName": "pages/general",
-    "_name": "_4cfcbcf0"
+    "name": "dashboard-ecommerce",
+    "path": "/dashboard/ecommerce",
+    "component": "/var/www/html/Nuxt Project/nuxt-stisla/pages/dashboard/ecommerce.vue",
+    "chunkName": "pages/dashboard/ecommerce",
+    "_name": "_36541ab6"
+  },
+  {
+    "name": "dashboard-general",
+    "path": "/dashboard/general",
+    "component": "/var/www/html/Nuxt Project/nuxt-stisla/pages/dashboard/general.vue",
+    "chunkName": "pages/dashboard/general",
+    "_name": "_2c07c08d"
   },
   {
     "name": "starter-blankPage",
@@ -159,13 +166,6 @@
     "component": "/var/www/html/Nuxt Project/nuxt-stisla/pages/starter/layout/defaultLayout.vue",
     "chunkName": "pages/starter/layout/defaultLayout",
     "_name": "_05a032b6"
-  },
-  {
-    "name": "starter-layout-topNavigation",
-    "path": "/starter/layout/topNavigation",
-    "component": "/var/www/html/Nuxt Project/nuxt-stisla/pages/starter/layout/topNavigation.vue",
-    "chunkName": "pages/starter/layout/topNavigation",
-    "_name": "_584f3c34"
   },
   {
     "name": "stisla-components-article",

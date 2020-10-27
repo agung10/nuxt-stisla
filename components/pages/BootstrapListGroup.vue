@@ -3,8 +3,8 @@
     <div class="section-header">
       <h1>List Group</h1>
       <div class="section-header-breadcrumb">
-        <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
-        <div class="breadcrumb-item"><a href="#">Bootstrap Components</a></div>
+        <div class="breadcrumb-item active"><a href="javascript:void(0)">Dashboard</a></div>
+        <div class="breadcrumb-item"><a href="javascript:void(0)">Bootstrap Components</a></div>
         <div class="breadcrumb-item">List Group</div>
       </div>
     </div>
@@ -215,22 +215,22 @@
             <div class="card-body">
               <div class="list-group">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="list-group-item list-group-item-action active"
                 >
                   Cras justo odio
                 </a>
-                <a href="#" class="list-group-item list-group-item-action"
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action"
                   >Dapibus ac facilisis in</a
                 >
-                <a href="#" class="list-group-item list-group-item-action"
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action"
                   >Morbi leo risus</a
                 >
-                <a href="#" class="list-group-item list-group-item-action"
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action"
                   >Porta ac consectetur ac</a
                 >
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="list-group-item list-group-item-action disabled"
                   >Vestibulum at eros</a
                 >
@@ -278,7 +278,7 @@
             <div class="card-body">
               <div class="list-group">
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="list-group-item list-group-item-action flex-column align-items-start active"
                 >
                   <div class="d-flex w-100 justify-content-between">
@@ -292,7 +292,7 @@
                   <small>Donec id elit non mi porta.</small>
                 </a>
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="list-group-item list-group-item-action flex-column align-items-start"
                 >
                   <div class="d-flex w-100 justify-content-between">
@@ -306,7 +306,7 @@
                   <small class="text-muted">Donec id elit non mi porta.</small>
                 </a>
                 <a
-                  href="#"
+                  href="javascript:void(0)"
                   class="list-group-item list-group-item-action flex-column align-items-start"
                 >
                   <div class="d-flex w-100 justify-content-between">
